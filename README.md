@@ -23,7 +23,7 @@ TUGAS 7 PEMROGRAMAN WEB
 
 ![Screenshot (248)](https://user-images.githubusercontent.com/81596251/117721784-7a86be00-b20a-11eb-8578-679bc0b15552.png)
 
-*__PREDEFINE VARIABLE $_GET__*
+PREDEFINE VARIABLE $_GET
 
 ![Screenshot (249)](https://user-images.githubusercontent.com/81596251/117721923-a7d36c00-b20a-11eb-8b8f-13d4bdf887b1.png)
 
@@ -54,4 +54,6 @@ TUGAS 7 PEMROGRAMAN WEB
 *__PERULANGAN DOWHILE__*
 
 ![Screenshot (257)](https://user-images.githubusercontent.com/81596251/117722971-fe8d7580-b20b-11eb-839d-130057295dc6.png)
+
+
 
