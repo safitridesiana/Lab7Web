@@ -1,0 +1,68 @@
+body {
+    font-family:  'Lucida Sans Regular',  sans-serif;
+    background-position: center;
+    background-image: url(https://bebs.org/wp-content/uploads/2019/05/form-background-1024x683.jpg)
+    
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+    text-align: center;
+  padding: 50px;
+}
+
+.login {
+    padding: 1em;
+    margin: auto;
+    width: 25em;
+    background: linear-gradient(to right,#4e5896, #008bee);
+    border-radius: 20px;
+}
+   
+label {
+    font-size: 10pt;
+    color:whitesmoke;
+}
+   
+input[type="text"],
+input[type="date"] 
+{
+    padding: 15px;
+    width: 93%;
+    background-image: url(https://www.photohdx.com/images/2019/08/dark-vintage-blue-texture-background.jpg);
+    color: blanchedalmond;
+    border: 10px;
+    font-size: 1em;
+    font-family: 'Arial';
+    margin: 6px 0px;
+    border-radius: 5px
+}
+   
+input[type="submit"] {
+    background-image: url(https://www.photohdx.com/images/2019/08/dark-vintage-blue-texture-background.jpg);
+    color: blanchedalmond;
+    border: 0;
+    margin: 5px 0px;
+    padding: 15px;
+    border-radius: 5px;
+    width: 100%;
+    font-family: 'Georgia';
+}
+
+input[type="submit"]:hover {
+    background: #042631;
+    cursor: pointer;
+}
+
+input[type="radio"] {
+    margin: 5px;
+    align-items: center;
+    cursor: pointer;
+}
+
+p {
+  margin: 10px;
+}
