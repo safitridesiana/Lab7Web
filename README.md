@@ -39,9 +39,9 @@ TUGAS 7 PEMROGRAMAN WEB
 
 ![Screenshot (253)](https://user-images.githubusercontent.com/81596251/117722256-07ca1280-b20b-11eb-937f-c1ee66a804be.png)
 
-*__KONDISI SWITCH!
+*__KONDISI SWITCH__*
 
-[Screenshot (254)](https://user-images.githubusercontent.com/81596251/117722327-1ca6a600-b20b-11eb-9760-0652c6948c32.png)
+![Screenshot (254)](https://user-images.githubusercontent.com/81596251/117753453-b3428980-b242-11eb-973b-9237747ec806.png)
 
 *__PERULANGAN FOR__*
 
