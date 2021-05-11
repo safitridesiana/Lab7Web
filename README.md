@@ -56,4 +56,35 @@ PREDEFINE VARIABLE $_GET
 ![Screenshot (257)](https://user-images.githubusercontent.com/81596251/117722971-fe8d7580-b20b-11eb-839d-130057295dc6.png)
 
 
+PERTANYAAN DAN TUGAS
+
+1. Membuat program PHP sederhana
+
+![Screenshot (258)](https://user-images.githubusercontent.com/81596251/117754474-99a24180-b244-11eb-89f8-cfa83eb6e1a0.png)
+
+Contoh Data berupa nama, tanggal, dan pekerjaan di-INPUT pada form:
+
+![Screenshot (259)](https://user-images.githubusercontent.com/81596251/117754686-09b0c780-b245-11eb-88fa-9b3faf5d87a6.png)
+
+Kemudian klik SUBMIT, maka akan terdapat OUTPUT berupa tampilan:
+
+![Screenshot (260)](https://user-images.githubusercontent.com/81596251/117754857-60b69c80-b245-11eb-8a7a-fc97562ab77e.png)
+
+Codingan pada HTML
+
+![Screenshot (261)](https://user-images.githubusercontent.com/81596251/117755057-bd19bc00-b245-11eb-87ae-44dc1f5ebbe3.png)
+
+Codingan pada PHP
+
+![Screenshot (262)](https://user-images.githubusercontent.com/81596251/117755248-0ec24680-b246-11eb-8ab5-238bb9bd4dcb.png)
+
+![Screenshot (263)](https://user-images.githubusercontent.com/81596251/117755260-12ee6400-b246-11eb-90da-08ffebbd7e34.png)
+
+Codingan pada CSS
+
+![Screenshot (264)](https://user-images.githubusercontent.com/81596251/117755466-74aece00-b246-11eb-945b-11b6d02375e1.png)
+
+![Screenshot (265)](https://user-images.githubusercontent.com/81596251/117755418-5c3eb380-b246-11eb-9efd-58beac773a25.png)
+
+
 
